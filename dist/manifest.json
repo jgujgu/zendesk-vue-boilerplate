@@ -1,0 +1,21 @@
+{
+  "name": "Hubstaff",
+  "author": {
+    "name": "Jeffrey Gu",
+    "email": "jeffrey@hubstaff.com",
+    "url": "https://www.hubstaff.com"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/index.html",
+      "new_ticket_sidebar": "assets/index.html"
+    },
+    "chat": {
+      "chat_sidebar": "assets/index.html"
+    }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
