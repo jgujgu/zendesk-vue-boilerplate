@@ -1,4 +1,6 @@
-# hubstaff-zendesk-sidebar
+# zendesk-vue-boilerplate
+
+This is boilerplate for a minimalistic product with `Vue`, `pug`, and `zat` in order to create Zendesk sidebar apps.
 
 ### Testing locally
 Perform these steps:
